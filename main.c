@@ -85,6 +85,6 @@ void main()
 
     OS_run();
 
-    task1();
+    /* unreachable code section */
 
 }
